@@ -10,24 +10,24 @@ Analyze the response of the fungus Trichoderma atroviride (wild type and RNAi-ma
 # Sequencing Technology used and libraries obtained
 90 libraries were sequenced by Illumina TruSeq 1X100 single-end.
 
-#Quality analysis and reads mapping
+# Quality analysis and reads mapping
 The quality of the RNA-seq libraries were analyzed by FastQC version 0.11.8. Around 9 millions of high-quality read per library were obtained. Cleaned reads were mapped to the new genome reference of T. atroviride IMI206040 (Atriztán-Hernández et al., in prep) using HISAT2 version 2.1.0. We use the code as next:
 
 module load FastQC/0.11.8
 fastqc /path-to-.fastq.gz* --outdir /path-to-outputdirectory
 
- #Trimmomatic
+#Trimmomatic
  module load Trimmomatic/0.32
  java -jar $TRIMMOMATIC SE -phred33 “path.to-.fastq.gz” “outputdirectory” ILLUMINACLIP:TruSeq3-SE:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
- #HISAT2
+#HISAT2
  module load  hisat2/2.1.0
- #create index
+#create index
  hisat2-build -p 8 -f “genome.fasta”   “Output-directory”
- #aligning
+#aligning
  hisat2 -p 4 -t “path to index” -U “path to trimed-.fq.gz” --dta -S “path-to output-.sam”
 
 
-#Read quantification and Differential expressed Analysis (DE)
+# Read quantification and Differential expressed Analysis (DE)
 For mapping reads counting to each gene Rsubread package was used:
 
  counts<-featureCounts("path_to_bam_file",
@@ -41,9 +41,7 @@ For mapping reads counting to each gene Rsubread package was used:
  matrix_counts_file<-cbind(counts$counts,counts2$counts,countsN$counts)                         
  write.csv(matrix_counts_file, file = "path_to_save_the_matrix_in_.csv")
 
-To performe the DE analysis the EdgeR and Limma packages were used 
-
-#Libraries pre-processing
+# To performe the DE analysis the EdgeR and Limma packages were used 
 
 1. Filtering genes with more than five reads per libraries and present in at least two different libraries 
  
@@ -70,7 +68,7 @@ lrt_fit2 <- glmLRT(fit, coef=3)
 
 res<-decideTests(lrt_fit,p.value=0.05,lfc=1)
 
-6. Plotting Venn Diagrams for upregulated and downregulated genes
+6. Plotting Venn Diagrams for upregulated and downregulated genes 
 
 res1<-decideTests(lrt_fit,p.value=0.05,lfc=1)
 res2<-decideTests(lrt_fit2,p.value=0.05,lfc=1)
@@ -82,7 +80,38 @@ vennDiagram(x_object [,1:2] == 1,circle.col = c("red","blue"),cex = c(1.5))
 #downregulated
 vennDiagram(x_object [,1:2] == -1,circle.col = c("red","blue"),cex = c(1.5))
 
+# Enrichment analysis by using topGO package
+#Merge DE genes to a functional annotation file containing GO terms for each gene of the organism used, in this case T. atroviride
+
+genes_to_GO <-merge("file_with_DE_genes","functional_annotation_file",by.x = "gene_ID",by.y = "gene_ID")
+write.csv(genes_to_GO  , file = "path_to_save_file_in_.csv")
+
+#Adding the annotations by "readMappings" function
+
+genes2GO<-readMappings(file = "path_to_genes_to_GO",sep = "\t", IDsep = ";")
+
+#Assigning pvalues to a geneList
+
+GeneList <-file_with_DE_genes[,"number_of_column_containing_pvalues"]
+names(GeneList) <-file_with_DE_genes[,"number_of_column_containing_geneIDs"]
+
+#Building the topGO object specifying the type of ontology (MF, BP or CC)
+
+GOdata  <- new("topGOdata",
+               description = "Simple session", ontology = "MF",
+               allGenes =GeneList ,geneSel = topDiffGenes,
+               nodeSize = 10,
+               annot=annFUN.gene2GO,gene2GO = genes2GO)
+               
+#Performing the Fisher Test, KS or KS_elim by using "runTest" function
+ 
+Fisher  <- runTest(GOdata, algorithm = "classic", statistic = "fisher")
+KS      <- runTest(GOdata, algorithm = "classic", statistic = "ks")
+KS_elim <- runTest(GOdata, algorithm = "elim", statistic = "ks")
+
+#Retrieve the results of the tests performed by "GenTable" function, in this case for the top 10 significant GO terms
+
+Genetable<-GenTable(GOdata, classicFisher = Fisher,classicKS = KS, elimKS = KS_elim,orderBy = "elimKS", ranksOf = "classicFisher", topNodes =10)
 
 
-
-
+ 
