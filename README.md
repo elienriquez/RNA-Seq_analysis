@@ -1,6 +1,5 @@
 # RNA-Seq_analysis
-Here I describe the main steps to perform a RNA-seq analysis for particular set of biological data 
-# Here I describe the main steps for T. atroviride RNA-seq data analysis using data obtained from ncbi geo website
+Here I describe the main steps for T. atroviride RNA-seq data analysis using data obtained from ncbi geo website
 
 # Objetive
 # The aim of this repository is to distribute the pipeline used for T. atroviride RNA-seq data analysis.
