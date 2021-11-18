@@ -2,16 +2,16 @@
 Here I describe the main steps for T. atroviride RNA-seq data analysis using data obtained from ncbi geo website
 
 # Objetive
-# The aim of this repository is to distribute the pipeline used for T. atroviride RNA-seq data analysis.
+The aim of this repository is to distribute the pipeline used for T. atroviride RNA-seq data analysis.
 
 # Biological relevance
-# Analyze the response of the fungus Trichoderma atroviride (wild type and RNAi-machinery-mutant strains) to fungal preys under three stages
+Analyze the response of the fungus Trichoderma atroviride (wild type and RNAi-machinery-mutant strains) to fungal preys under three stages
 
 # Sequencing Technology used and libraries obtained
-# 90 libraries were sequenced by Illumina TruSeq 1X100 single-end.
+90 libraries were sequenced by Illumina TruSeq 1X100 single-end.
 
 #Quality analysis and reads mapping
-#The quality of the RNA-seq libraries were analyzed by FastQC version 0.11.8. Around 9 millions of high-quality read per library were obtained. Cleaned reads were mapped to the new genome reference of T. atroviride IMI206040 (Atriztán-Hernández et al., in prep) using HISAT2 version 2.1.0. We use the code as next:
+The quality of the RNA-seq libraries were analyzed by FastQC version 0.11.8. Around 9 millions of high-quality read per library were obtained. Cleaned reads were mapped to the new genome reference of T. atroviride IMI206040 (Atriztán-Hernández et al., in prep) using HISAT2 version 2.1.0. We use the code as next:
 
 module load FastQC/0.11.8
 fastqc /path-to-.fastq.gz* --outdir /path-to-outputdirectory
