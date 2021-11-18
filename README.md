@@ -80,8 +80,10 @@ vennDiagram(x_object [,1:2] == 1,circle.col = c("red","blue"),cex = c(1.5))
 #downregulated
 vennDiagram(x_object [,1:2] == -1,circle.col = c("red","blue"),cex = c(1.5))
 
+
 # Enrichment analysis by using topGO package
-#Merge DE genes to a functional annotation file containing GO terms for each gene of the organism used, in this case T. atroviride
+
+#Merging a list of DE genes to a functional annotation file containing GO terms for each gene of the organism used, in this case T. atroviride
 
 genes_to_GO <-merge("file_with_DE_genes","functional_annotation_file",by.x = "gene_ID",by.y = "gene_ID")
 write.csv(genes_to_GO  , file = "path_to_save_file_in_.csv")
