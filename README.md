@@ -15,21 +15,22 @@ The quality of the RNA-seq libraries were analyzed by FastQC version 0.11.8. Aro
 
 module load FastQC/0.11.8
 fastqc /path-to-.fastq.gz* --outdir /path-to-outputdirectory
-#Trimmomatic
-module load Trimmomatic/0.32
-java -jar $TRIMMOMATIC SE -phred33 “path.to-.fastq.gz” “outputdirectory” ILLUMINACLIP:TruSeq3-SE:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
-#HISAT2
-module load  hisat2/2.1.0
-#create index
-hisat2-build -p 8 -f “genome.fasta”   “Output-directory”
-#aligning
-hisat2 -p 4 -t “path to index” -U “path to trimed-.fq.gz” --dta -S “path-to output-.sam”
+
+ #Trimmomatic
+ module load Trimmomatic/0.32
+ java -jar $TRIMMOMATIC SE -phred33 “path.to-.fastq.gz” “outputdirectory” ILLUMINACLIP:TruSeq3-SE:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+ #HISAT2
+ module load  hisat2/2.1.0
+ #create index
+ hisat2-build -p 8 -f “genome.fasta”   “Output-directory”
+ #aligning
+ hisat2 -p 4 -t “path to index” -U “path to trimed-.fq.gz” --dta -S “path-to output-.sam”
 
 
 #Read quantification and Differential expressed Analysis (DE)
 For mapping reads counting to each gene Rsubread package was used:
 
-counts<-featureCounts("path_to_bam_file",
+ counts<-featureCounts("path_to_bam_file",
                          annot.ext = "path_to_annotation_file_in_.gff3",
                          isGTFAnnotationFile = TRUE,
                          GTF.featureType = "mRNA",
@@ -37,8 +38,50 @@ counts<-featureCounts("path_to_bam_file",
                          countMultiMappingReads = TRUE,
                          fraction = TRUE,
                          allowMultiOverlap = TRUE)
-matrix_counts_file<-cbind(counts$counts,counts2$counts,countsN$counts)                         
-write.csv(matrix_counts_file, file = "path_to_save_the_matrix_in_.csv")
+ matrix_counts_file<-cbind(counts$counts,counts2$counts,countsN$counts)                         
+ write.csv(matrix_counts_file, file = "path_to_save_the_matrix_in_.csv")
+
+To performe the DE analysis the EdgeR and Limma packages were used 
+
+#Libraries pre-processing
+
+1. Filtering genes with more than five reads per libraries and present in at least two different libraries 
+ 
+counts = counts[rowSums(cpm(counts) >= 2) >=5,]
+
+2. From filtered data, DGElist object was made, the replicates are introduced by factor function
+
+group <- factor( c(rep("1",3),rep("2",3),rep("3",3))) 
+design <-model.matrix(~ group)
+set1<-DGEList(counts=counts,group=group)
+
+3. Calculate dispersion and normalization by using calcNormFactors and estimateDisp functions
+
+set1 <- calcNormFactors(set1)
+set1 <- estimateDisp(set1,design)
+
+4. Getting DE genes using Likelihood ratio test
+
+fit     <- glmFit(set1, design)
+lrt_fit  <- glmLRT(fit, coef=2)
+lrt_fit2 <- glmLRT(fit, coef=3)
+ 
+5. To retrieve the list of DE genes by using decideTests function with p.value = 0.05 and LogFoldChange = 1
+
+res<-decideTests(lrt_fit,p.value=0.05,lfc=1)
+
+6. Plotting Venn Diagrams for upregulated and downregulated genes
+
+res1<-decideTests(lrt_fit,p.value=0.05,lfc=1)
+res2<-decideTests(lrt_fit2,p.value=0.05,lfc=1)
+ 
+x_object           <- cbind(res1[,1], res2[,1])
+colnames(x_object) <-c("condition_name_1","condiction_name_2")
+#upregulated
+vennDiagram(x_object [,1:2] == 1,circle.col = c("red","blue"),cex = c(1.5))
+#downregulated
+vennDiagram(x_object [,1:2] == -1,circle.col = c("red","blue"),cex = c(1.5))
+
 
 
 
