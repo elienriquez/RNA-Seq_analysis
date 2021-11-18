@@ -25,6 +25,7 @@ hisat2-build -p 8 -f “genome.fasta”   “Output-directory”
 #aligning
 hisat2 -p 4 -t “path to index” -U “path to trimed-.fq.gz” --dta -S “path-to output-.sam”
 
+
 #Read quantification and Differential expressed Analysis (DE)
 For mapping reads counting to each gene Rsubread package was used:
 
