@@ -115,5 +115,71 @@ KS_elim <- runTest(GOdata, algorithm = "elim", statistic = "ks")
 
 Genetable<-GenTable(GOdata, classicFisher = Fisher,classicKS = KS, elimKS = KS_elim,orderBy = "elimKS", ranksOf = "classicFisher", topNodes =10)
 
+# Upset graphs 
 
+Here we describe the procedure to create upset graphs. The lists of upregulated and downregulated differentially expressed genes (DEG) with
+a Log2FC  1 and p &lt; 0.05 were taken for each interaction with respect to the control (wild strain growing without interaction). These lists were loaded to create
+the UpSet charts using the following code:
+
+BiocManager::install(&quot;UpSetR&quot;)
+library(&quot;UpSetR&quot;)
+library(&quot;ggplot2&quot;)
+library(&quot;plyr&quot;)
+library(&quot;gridExtra&quot;)
+library(&quot;grid&quot;)
+
+For upregulated genes:
+data_inter_up=fromList(lista_contras$contras_up.txt)
+UpSet plot of genes that are upregulated at the before contact and contact stage:
+upset(data_inter_up, sets = c(&quot;WTvsR.solani_AG2_BC&quot;,
+&quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;,&quot;WTvsR.solani_AG2_C&quot;,
+&quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),
+main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
+number.angles = 10, text.scale = c(rep(1.5, 5), 1.5),
+set_size.show = TRUE, order.by = &quot;freq&quot;, keep.order = TRUE,
+set_size.scale_max = 1300, matrix.color = &quot;SteelBlue&quot;, nintersects = 15,
+mb.ratio = c(0.55, 0.45),
+queries = list(list(query = intersects, params = list(&quot;WTvsR.solani_AG2_BC&quot;,
+&quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;),
+color =&quot;chartreuse3&quot;, active = T),list(query = intersects, params =
+list(&quot;WTvsR.solani_AG2_C&quot;, &quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),color
+= &quot;chartreuse3&quot;, active = T)))
+UpSet plot of genes that are upregulated at the after contact stage:
+upset(data_inter_up, sets = c(&quot;WTvsR.solani_AG2_AC&quot;,
+&quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
+main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
+number.angles = 10, text.scale = c(rep(1.5, 5), 1.5),
+set_size.show = TRUE, order.by = &quot;freq&quot;, keep.order = TRUE,
+set_size.scale_max = 100, matrix.color = &quot;SteelBlue&quot;,
+mb.ratio = c(0.55, 0.45),
+queries = list(list(query = intersects, params = list(&quot;WTvsR.solani_AG2_AC&quot;,
+&quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
+color =&quot;chartreuse3&quot;, active = T)))
+
+For downregulated genes:
+
+data_inter_down=fromList(lista_contras$contras_down.txt)
+UpSet plot of genes that are downregulated at the before contact and contact
+stage:
+upset(data_inter_down, sets = c(&quot;WTvsR.solani_AG2_BC&quot;,
+&quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;,&quot;WTvsR.solani_AG2_C&quot;,
+&quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),
+main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
+number.angles = 10, text.scale = c(rep(1.5, 5), 1.5),
+set_size.show = TRUE, order.by = &quot;freq&quot;, keep.order = TRUE,
+set_size.scale_max = 1300, matrix.color = &quot;SteelBlue&quot;, nintersects = 15,
+mb.ratio = c(0.55, 0.45), queries = list(list(query = intersects, params =
+list(&quot;WTvsR.solani_AG2_BC&quot;, &quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;),
+color =&quot;chartreuse3&quot;, active = T)))
+UpSet plot of genes that are downregulated at the after contact stage:
+upset(data_inter_down, sets = c(&quot;WTvsR.solani_AG2_AC&quot;,
+&quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
+main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
+number.angles = 10, text.scale = c(rep(1.5, 5), 1.5),
+set_size.show = TRUE, order.by = &quot;freq&quot;, keep.order = TRUE,
+set_size.scale_max = 100, matrix.color = &quot;SteelBlue&quot;, nintersects = 15,
+mb.ratio = c(0.55, 0.45),
+queries = list(list(query = intersects, params = list(&quot;WTvsR.solani_AG2_AC&quot;,
+&quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
+color =&quot;chartreuse3&quot;, active = T)))
  
