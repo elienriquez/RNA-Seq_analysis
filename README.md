@@ -131,7 +131,9 @@ library(&quot;grid&quot;)
 For upregulated genes:
 
 data_inter_up=fromList(lista_contras$contras_up.txt)
+
 UpSet plot of genes that are upregulated at the before contact and contact stage:
+
 upset(data_inter_up, sets = c(&quot;WTvsR.solani_AG2_BC&quot;,
 &quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;,&quot;WTvsR.solani_AG2_C&quot;,
 &quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),
@@ -145,7 +147,9 @@ queries = list(list(query = intersects, params = list(&quot;WTvsR.solani_AG2_BC&
 color =&quot;chartreuse3&quot;, active = T),list(query = intersects, params =
 list(&quot;WTvsR.solani_AG2_C&quot;, &quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),color
 = &quot;chartreuse3&quot;, active = T)))
+
 UpSet plot of genes that are upregulated at the after contact stage:
+
 upset(data_inter_up, sets = c(&quot;WTvsR.solani_AG2_AC&quot;,
 &quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
 main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
@@ -160,8 +164,10 @@ color =&quot;chartreuse3&quot;, active = T)))
 For downregulated genes:
 
 data_inter_down=fromList(lista_contras$contras_down.txt)
+
 UpSet plot of genes that are downregulated at the before contact and contact
 stage:
+
 upset(data_inter_down, sets = c(&quot;WTvsR.solani_AG2_BC&quot;,
 &quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;,&quot;WTvsR.solani_AG2_C&quot;,
 &quot;WTvsR.solani_AG5_C&quot;, &quot;WTvsA.alternata_C&quot;),
@@ -172,7 +178,9 @@ set_size.scale_max = 1300, matrix.color = &quot;SteelBlue&quot;, nintersects = 1
 mb.ratio = c(0.55, 0.45), queries = list(list(query = intersects, params =
 list(&quot;WTvsR.solani_AG2_BC&quot;, &quot;WTvsR.solani_AG5_BC&quot;, &quot;WTvsA.alternata_BC&quot;),
 color =&quot;chartreuse3&quot;, active = T)))
+
 UpSet plot of genes that are downregulated at the after contact stage:
+
 upset(data_inter_down, sets = c(&quot;WTvsR.solani_AG2_AC&quot;,
 &quot;WTvsR.solani_AG5_AC&quot;, &quot;WTvsA.alternata_AC&quot;),
 main.bar.color = &quot;navyblue&quot;, sets.bar.color = &quot;red&quot;, point.size = 4.5,
