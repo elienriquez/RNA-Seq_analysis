@@ -1,0 +1,1065 @@
+WTvsR.solani_AG2_BC	WTvsR.solani_AG5_BC	WTvsA.alternata_BC	WTvsR.solani_AG2_C	WTvsR.solani_AG5_C	WTvsA.alternata_C	WTvsR.solani_AG2_AC	WTvsR.solani_AG5_AC	WTvsA.alternata_AC
+Tatro_009943	Tatro_001135	Tatro_008395	Tatro_002949	Tatro_011871	Tatro_000268	Tatro_000020	Tatro_000020	Tatro_000011
+Tatro_008531	Tatro_004284	Tatro_007904	Tatro_006289	Tatro_011395	Tatro_000285	Tatro_000131	Tatro_000024	Tatro_000020
+Tatro_007675	Tatro_006938	Tatro_010287	Tatro_009766	Tatro_002949	Tatro_000305	Tatro_000280	Tatro_000131	Tatro_000024
+Tatro_006938	Tatro_008531	Tatro_010811	Tatro_011012	Tatro_001634	Tatro_000392	Tatro_000283	Tatro_000222	Tatro_000097
+Tatro_006444	Tatro_011552	Tatro_009141	Tatro_011598	Tatro_000385	Tatro_000863	Tatro_000354	Tatro_000222	Tatro_000131
+Tatro_007043	Tatro_009943	Tatro_010976	Tatro_010229	Tatro_008042	Tatro_000877	Tatro_000355	Tatro_000222	Tatro_000145
+Tatro_003174	Tatro_007127	Tatro_008976	Tatro_000496	Tatro_001511	Tatro_000924	Tatro_000358	Tatro_000222	Tatro_000148
+Tatro_010189	Tatro_007043	Tatro_010810	Tatro_007163	Tatro_002929	Tatro_001016	Tatro_000363	Tatro_000363	Tatro_000165
+Tatro_002772	Tatro_002022	Tatro_010893	Tatro_005431	Tatro_002144	Tatro_001177	Tatro_000383	Tatro_000383	Tatro_000166
+Tatro_004399	Tatro_001269	Tatro_011068	Tatro_007675	Tatro_008282	Tatro_001344	Tatro_000384	Tatro_000384	Tatro_000167
+Tatro_005737	Tatro_005698	Tatro_011069	Tatro_005948	Tatro_008595	Tatro_001444	Tatro_000385	Tatro_000385	Tatro_000196
+Tatro_002012	Tatro_007675	Tatro_010808	Tatro_008531	Tatro_010229	Tatro_001551	Tatro_000386	Tatro_000386	Tatro_000222
+Tatro_005885	Tatro_007541	Tatro_001393	Tatro_007043	Tatro_011649	Tatro_001553	Tatro_000389	Tatro_000389	Tatro_000222
+Tatro_004112	Tatro_002984	Tatro_011079	Tatro_008415	Tatro_011421	Tatro_001588	Tatro_000393	Tatro_000404	Tatro_000222
+Tatro_007421	Tatro_011900	Tatro_001888	Tatro_002950	Tatro_000384	Tatro_001659	Tatro_000404	Tatro_000523	Tatro_000222
+Tatro_006193	Tatro_006444	Tatro_000201	Tatro_003082	Tatro_002168	Tatro_001666	Tatro_000449	Tatro_000621	Tatro_000224
+Tatro_005698	Tatro_004724	Tatro_002663	Tatro_004386	Tatro_011598	Tatro_001667	Tatro_000523	Tatro_000778	Tatro_000238
+Tatro_002984	Tatro_004847	Tatro_000363	Tatro_011181	Tatro_007348	Tatro_001703	Tatro_001190	Tatro_000825	Tatro_000272
+Tatro_000902	Tatro_010189	Tatro_011244	Tatro_004724	Tatro_005792	Tatro_001922	Tatro_001190	Tatro_000864	Tatro_000285
+Tatro_007127	Tatro_003061	Tatro_005932	Tatro_006888	Tatro_007131	Tatro_001930	Tatro_001190	Tatro_000877	Tatro_000312
+Tatro_011038	Tatro_007315	Tatro_011350	Tatro_004385	Tatro_011626	Tatro_001937	Tatro_001190	Tatro_001190	Tatro_000342
+Tatro_011415	Tatro_008453	Tatro_002773	Tatro_006601	Tatro_010340	Tatro_002201	Tatro_001526	Tatro_001190	Tatro_000352
+Tatro_011172	Tatro_006820	Tatro_011910	Tatro_010166	Tatro_007273	Tatro_002252	Tatro_001551	Tatro_001190	Tatro_000354
+Tatro_008054	Tatro_007421	Tatro_001418	Tatro_007523	Tatro_006361	Tatro_002445	Tatro_001554	Tatro_001190	Tatro_000355
+Tatro_007813	Tatro_010992		Tatro_005698	Tatro_011281	Tatro_002521	Tatro_001588	Tatro_001303	Tatro_000356
+Tatro_006293	Tatro_002541		Tatro_000285	Tatro_007666	Tatro_002599	Tatro_001623	Tatro_001502	Tatro_000357
+Tatro_002022	Tatro_004528		Tatro_010771	Tatro_002769	Tatro_002616	Tatro_001633	Tatro_001526	Tatro_000358
+Tatro_011976	Tatro_006293		Tatro_002814	Tatro_004594	Tatro_002693	Tatro_001634	Tatro_001546	Tatro_000363
+Tatro_004724	Tatro_000988		Tatro_002772	Tatro_001650	Tatro_002773	Tatro_001650	Tatro_001623	Tatro_000383
+Tatro_007523	Tatro_004729		Tatro_008963	Tatro_002750	Tatro_002896	Tatro_001660	Tatro_001630	Tatro_000386
+Tatro_006268	Tatro_010166		Tatro_010480	Tatro_000386	Tatro_002904	Tatro_001661	Tatro_001633	Tatro_000389
+Tatro_007188	Tatro_010959		Tatro_009164	Tatro_001754	Tatro_002916	Tatro_001664	Tatro_001634	Tatro_000392
+Tatro_000285	Tatro_007429		Tatro_008964	Tatro_011552	Tatro_002927	Tatro_001667	Tatro_001650	Tatro_000400
+Tatro_007953			Tatro_005958	Tatro_011887	Tatro_002984	Tatro_001743	Tatro_001743	Tatro_000404
+Tatro_011226			Tatro_007421	Tatro_011181	Tatro_003303	Tatro_001748	Tatro_001754	Tatro_000428
+Tatro_010043			Tatro_009372	Tatro_004386	Tatro_003689	Tatro_002000	Tatro_001922	Tatro_000464
+Tatro_003412			Tatro_002419	Tatro_008329	Tatro_003974	Tatro_002078	Tatro_001938	Tatro_000503
+Tatro_000988			Tatro_009037	Tatro_008553	Tatro_004064	Tatro_002099	Tatro_001988	Tatro_000564
+Tatro_011900			Tatro_008407	Tatro_009422	Tatro_004508	Tatro_002101	Tatro_001989	Tatro_000574
+Tatro_004663			Tatro_010224	Tatro_011914	Tatro_004509	Tatro_002142	Tatro_002044	Tatro_000584
+Tatro_009164			Tatro_004399	Tatro_000485	Tatro_004517	Tatro_002144	Tatro_002045	Tatro_000590
+Tatro_006437			Tatro_000531	Tatro_006638	Tatro_004537	Tatro_002168	Tatro_002046	Tatro_000592
+Tatro_011888			Tatro_006607	Tatro_004385	Tatro_004544	Tatro_002169	Tatro_002099	Tatro_000618
+Tatro_001508			Tatro_011900	Tatro_001989	Tatro_004698	Tatro_002170	Tatro_002101	Tatro_000619
+Tatro_008453			Tatro_004704	Tatro_002950	Tatro_004699	Tatro_002195	Tatro_002120	Tatro_000624
+Tatro_009542			Tatro_004830	Tatro_010480	Tatro_004700	Tatro_002402	Tatro_002142	Tatro_000705
+Tatro_007315			Tatro_001317	Tatro_000131	Tatro_004719	Tatro_002462	Tatro_002144	Tatro_000778
+Tatro_011959			Tatro_001555	Tatro_006607	Tatro_004729	Tatro_002514	Tatro_002163	Tatro_000808
+Tatro_003364			Tatro_002115	Tatro_002889	Tatro_004736	Tatro_002541	Tatro_002168	Tatro_000809
+Tatro_011958			Tatro_011589	Tatro_008184	Tatro_004737	Tatro_002603	Tatro_002169	Tatro_000810
+Tatro_007366			Tatro_006542	Tatro_010233	Tatro_005329	Tatro_002613	Tatro_002170	Tatro_000811
+Tatro_011846			Tatro_009191	Tatro_004704	Tatro_005333	Tatro_002614	Tatro_002195	Tatro_000812
+Tatro_008407			Tatro_000742	Tatro_002541	Tatro_005792	Tatro_002653	Tatro_002347	Tatro_000825
+Tatro_007804			Tatro_011358	Tatro_000404	Tatro_005927	Tatro_002750	Tatro_002514	Tatro_000826
+Tatro_001370			Tatro_008379	Tatro_002443	Tatro_005997	Tatro_002769	Tatro_002541	Tatro_000829
+Tatro_006820			Tatro_010901	Tatro_004703	Tatro_006150	Tatro_002889	Tatro_002597	Tatro_000834
+Tatro_002607			Tatro_011193	Tatro_001988	Tatro_006266	Tatro_002892	Tatro_002716	Tatro_000852
+Tatro_005310			Tatro_001455	Tatro_005833	Tatro_006320	Tatro_002893	Tatro_002750	Tatro_000861
+Tatro_011160			Tatro_006437	Tatro_001986	Tatro_006327	Tatro_002896	Tatro_002769	Tatro_000874
+Tatro_003787			Tatro_009632	Tatro_009698	Tatro_006630	Tatro_002909	Tatro_002889	Tatro_000877
+Tatro_003838			Tatro_011013	Tatro_006165	Tatro_006665	Tatro_002911	Tatro_002894	Tatro_000907
+Tatro_002062			Tatro_001185	Tatro_006165	Tatro_006666	Tatro_002916	Tatro_002896	Tatro_000924
+			Tatro_010043	Tatro_006165	Tatro_006807	Tatro_002929	Tatro_002911	Tatro_000936
+			Tatro_011916	Tatro_006165	Tatro_006835	Tatro_002946	Tatro_002916	Tatro_000951
+			Tatro_000962	Tatro_001987	Tatro_007126	Tatro_002949	Tatro_002927	Tatro_000952
+			Tatro_011958	Tatro_002872	Tatro_007203	Tatro_003003	Tatro_002929	Tatro_000969
+			Tatro_000015	Tatro_003857	Tatro_007204	Tatro_003007	Tatro_002946	Tatro_000970
+			Tatro_003129	Tatro_010028	Tatro_007253	Tatro_003009	Tatro_002948	Tatro_000986
+			Tatro_008388	Tatro_001710	Tatro_007342	Tatro_003082	Tatro_002949	Tatro_000999
+			Tatro_006937		Tatro_007348	Tatro_003127	Tatro_003003	Tatro_001005
+			Tatro_009038		Tatro_007733	Tatro_003167	Tatro_003009	Tatro_001016
+			Tatro_006249		Tatro_007749	Tatro_003303	Tatro_003010	Tatro_001028
+			Tatro_008609		Tatro_007842	Tatro_003325	Tatro_003082	Tatro_001057
+			Tatro_001553		Tatro_007904	Tatro_003683	Tatro_003148	Tatro_001080
+			Tatro_001949		Tatro_008132	Tatro_003816	Tatro_003186	Tatro_001115
+			Tatro_010560		Tatro_008393	Tatro_003880	Tatro_003305	Tatro_001137
+			Tatro_007626		Tatro_008394	Tatro_003947	Tatro_003306	Tatro_001145
+			Tatro_007461		Tatro_008395	Tatro_003989	Tatro_003325	Tatro_001184
+			Tatro_005362		Tatro_008556	Tatro_003990	Tatro_003347	Tatro_001189
+			Tatro_004818		Tatro_008719	Tatro_004445	Tatro_003683	Tatro_001190
+			Tatro_000931		Tatro_008842	Tatro_004511	Tatro_003688	Tatro_001190
+			Tatro_002508		Tatro_009141	Tatro_004512	Tatro_003824	Tatro_001190
+			Tatro_003287		Tatro_009256	Tatro_004528	Tatro_003880	Tatro_001190
+			Tatro_004170		Tatro_009479	Tatro_004593	Tatro_003990	Tatro_001206
+			Tatro_009364		Tatro_010096	Tatro_004594	Tatro_004111	Tatro_001214
+			Tatro_006868		Tatro_010098	Tatro_004663	Tatro_004323	Tatro_001225
+			Tatro_003244		Tatro_010159	Tatro_004690	Tatro_004445	Tatro_001226
+			Tatro_004863		Tatro_010173	Tatro_004691	Tatro_004446	Tatro_001248
+			Tatro_002872		Tatro_010189	Tatro_004692	Tatro_004467	Tatro_001270
+			Tatro_004071		Tatro_010359	Tatro_004698	Tatro_004528	Tatro_001284
+			Tatro_006159		Tatro_010503	Tatro_004699	Tatro_004593	Tatro_001296
+			Tatro_005035		Tatro_010590	Tatro_004703	Tatro_004594	Tatro_001297
+			Tatro_000739		Tatro_010833	Tatro_004704	Tatro_004690	Tatro_001302
+			Tatro_006224		Tatro_010837	Tatro_004734	Tatro_004691	Tatro_001322
+			Tatro_004010		Tatro_010842	Tatro_004785	Tatro_004692	Tatro_001340
+			Tatro_009208		Tatro_010905	Tatro_004801	Tatro_004701	Tatro_001344
+			Tatro_004325		Tatro_010910	Tatro_005099	Tatro_004703	Tatro_001378
+			Tatro_003182		Tatro_010976	Tatro_005737	Tatro_004704	Tatro_001397
+			Tatro_011211		Tatro_011088	Tatro_005792	Tatro_004727	Tatro_001398
+			Tatro_005164		Tatro_011089	Tatro_005818	Tatro_004734	Tatro_001403
+			Tatro_006829		Tatro_011098	Tatro_005893	Tatro_004785	Tatro_001424
+			Tatro_001324		Tatro_011170	Tatro_005905	Tatro_004801	Tatro_001433
+			Tatro_007432		Tatro_011349	Tatro_005937	Tatro_004976	Tatro_001451
+			Tatro_000362		Tatro_011350	Tatro_005943	Tatro_005662	Tatro_001491
+			Tatro_000404		Tatro_011768	Tatro_006165	Tatro_005737	Tatro_001546
+			Tatro_007359		Tatro_011804	Tatro_006165	Tatro_005792	Tatro_001551
+			Tatro_000192		Tatro_011810	Tatro_006165	Tatro_005932	Tatro_001554
+			Tatro_009639		Tatro_011816	Tatro_006165	Tatro_006165	Tatro_001556
+			Tatro_004926		Tatro_011877	Tatro_006219	Tatro_006165	Tatro_001560
+			Tatro_006035		Tatro_011888	Tatro_006266	Tatro_006165	Tatro_001562
+			Tatro_003502		Tatro_011890	Tatro_006355	Tatro_006165	Tatro_001568
+			Tatro_004674		Tatro_011910	Tatro_006361	Tatro_006219	Tatro_001577
+			Tatro_006747			Tatro_006435	Tatro_006266	Tatro_001589
+			Tatro_005762			Tatro_006481	Tatro_006327	Tatro_001598
+			Tatro_001049			Tatro_006516	Tatro_006361	Tatro_001610
+			Tatro_004909			Tatro_006517	Tatro_006434	Tatro_001612
+			Tatro_010679			Tatro_006607	Tatro_006494	Tatro_001617
+			Tatro_005062			Tatro_006655	Tatro_006496	Tatro_001620
+			Tatro_001454			Tatro_006665	Tatro_006497	Tatro_001633
+			Tatro_010106			Tatro_006666	Tatro_006500	Tatro_001634
+			Tatro_007459			Tatro_006770	Tatro_006501	Tatro_001640
+			Tatro_001109			Tatro_006938	Tatro_006516	Tatro_001649
+			Tatro_011162			Tatro_007021	Tatro_006553	Tatro_001661
+			Tatro_005804			Tatro_007131	Tatro_006607	Tatro_001662
+			Tatro_002116			Tatro_007154	Tatro_006655	Tatro_001664
+			Tatro_011935			Tatro_007159	Tatro_006665	Tatro_001666
+			Tatro_004899			Tatro_007174	Tatro_006666	Tatro_001667
+			Tatro_009883			Tatro_007273	Tatro_006761	Tatro_001673
+			Tatro_008648			Tatro_007286	Tatro_006938	Tatro_001684
+			Tatro_003137			Tatro_007293	Tatro_007096	Tatro_001743
+			Tatro_003614			Tatro_007313	Tatro_007130	Tatro_001764
+			Tatro_010923			Tatro_007327	Tatro_007131	Tatro_001767
+			Tatro_003039			Tatro_007335	Tatro_007146	Tatro_001772
+			Tatro_005692			Tatro_007347	Tatro_007154	Tatro_001776
+			Tatro_006823			Tatro_007348	Tatro_007273	Tatro_001796
+			Tatro_008673			Tatro_007351	Tatro_007278	Tatro_001833
+			Tatro_010253			Tatro_007361	Tatro_007286	Tatro_001834
+			Tatro_006175			Tatro_007441	Tatro_007313	Tatro_001879
+			Tatro_010594			Tatro_007541	Tatro_007347	Tatro_001898
+			Tatro_004583			Tatro_007662	Tatro_007348	Tatro_001909
+			Tatro_011785			Tatro_007666	Tatro_007349	Tatro_001922
+			Tatro_009243			Tatro_007668	Tatro_007351	Tatro_001923
+			Tatro_008445			Tatro_007672	Tatro_007361	Tatro_001924
+			Tatro_003957			Tatro_007675	Tatro_007441	Tatro_001925
+			Tatro_008913			Tatro_007679	Tatro_007598	Tatro_001927
+			Tatro_005133			Tatro_007707	Tatro_007666	Tatro_001929
+			Tatro_005160			Tatro_007733	Tatro_007668	Tatro_001937
+			Tatro_001854			Tatro_007740	Tatro_007672	Tatro_001940
+			Tatro_009625			Tatro_007836	Tatro_007675	Tatro_001979
+			Tatro_007791			Tatro_007896	Tatro_007679	Tatro_001991
+			Tatro_002970			Tatro_007904	Tatro_007732	Tatro_002012
+			Tatro_000572			Tatro_007960	Tatro_007737	Tatro_002031
+			Tatro_007794			Tatro_007988	Tatro_007740	Tatro_002062
+			Tatro_006819			Tatro_008042	Tatro_007846	Tatro_002075
+			Tatro_002873			Tatro_008047	Tatro_007896	Tatro_002078
+			Tatro_008761			Tatro_008071	Tatro_007960	Tatro_002099
+			Tatro_003097			Tatro_008072	Tatro_007961	Tatro_002100
+			Tatro_009770			Tatro_008282	Tatro_008042	Tatro_002101
+			Tatro_008299			Tatro_008329	Tatro_008047	Tatro_002120
+			Tatro_001365			Tatro_008380	Tatro_008056	Tatro_002139
+			Tatro_006788			Tatro_008415	Tatro_008057	Tatro_002144
+			Tatro_005305			Tatro_008553	Tatro_008058	Tatro_002146
+			Tatro_002991			Tatro_008595	Tatro_008071	Tatro_002147
+			Tatro_002374			Tatro_008754	Tatro_008072	Tatro_002148
+			Tatro_006076			Tatro_008841	Tatro_008116	Tatro_002158
+			Tatro_004811			Tatro_009000	Tatro_008282	Tatro_002163
+			Tatro_000600			Tatro_009166	Tatro_008329	Tatro_002165
+			Tatro_002366			Tatro_009176	Tatro_008380	Tatro_002166
+			Tatro_000761			Tatro_009293	Tatro_008383	Tatro_002169
+			Tatro_001237			Tatro_009331	Tatro_008415	Tatro_002170
+			Tatro_005862			Tatro_009332	Tatro_008494	Tatro_002191
+			Tatro_009733			Tatro_009360	Tatro_008536	Tatro_002194
+			Tatro_008279			Tatro_009363	Tatro_008553	Tatro_002195
+			Tatro_010618			Tatro_009422	Tatro_008595	Tatro_002202
+			Tatro_009900			Tatro_009447	Tatro_008754	Tatro_002252
+			Tatro_005054			Tatro_009449	Tatro_008841	Tatro_002255
+			Tatro_003340			Tatro_009518	Tatro_008933	Tatro_002274
+			Tatro_009411			Tatro_009615	Tatro_009000	Tatro_002278
+			Tatro_009301			Tatro_009973	Tatro_009132	Tatro_002279
+			Tatro_004983			Tatro_010096	Tatro_009143	Tatro_002284
+			Tatro_004015			Tatro_010098	Tatro_009157	Tatro_002285
+			Tatro_000172			Tatro_010152	Tatro_009166	Tatro_002296
+			Tatro_010477			Tatro_010190	Tatro_009176	Tatro_002315
+			Tatro_002438			Tatro_010195	Tatro_009193	Tatro_002319
+			Tatro_000467			Tatro_010213	Tatro_009331	Tatro_002347
+			Tatro_005040			Tatro_010217	Tatro_009332	Tatro_002369
+			Tatro_004814			Tatro_010229	Tatro_009422	Tatro_002383
+			Tatro_006490			Tatro_010230	Tatro_009453	Tatro_002400
+			Tatro_006735			Tatro_010233	Tatro_009518	Tatro_002402
+			Tatro_005725			Tatro_010285	Tatro_009654	Tatro_002408
+			Tatro_002305			Tatro_010293	Tatro_009973	Tatro_002443
+			Tatro_001269			Tatro_010340	Tatro_009983	Tatro_002445
+			Tatro_005366			Tatro_010572	Tatro_009983	Tatro_002461
+			Tatro_003273			Tatro_010761	Tatro_009983	Tatro_002472
+			Tatro_011709			Tatro_010792	Tatro_009983	Tatro_002474
+			Tatro_009937			Tatro_010828	Tatro_010096	Tatro_002487
+			Tatro_007527			Tatro_010842	Tatro_010098	Tatro_002504
+			Tatro_008043			Tatro_010851	Tatro_010099	Tatro_002511
+			Tatro_006082			Tatro_010854	Tatro_010146	Tatro_002513
+			Tatro_003472			Tatro_010903	Tatro_010164	Tatro_002514
+			Tatro_011478			Tatro_010905	Tatro_010185	Tatro_002521
+			Tatro_008916			Tatro_011012	Tatro_010189	Tatro_002522
+			Tatro_007520			Tatro_011028	Tatro_010212	Tatro_002523
+			Tatro_003722			Tatro_011170	Tatro_010213	Tatro_002524
+			Tatro_007444			Tatro_011181	Tatro_010214	Tatro_002525
+			Tatro_006511			Tatro_011183	Tatro_010233	Tatro_002554
+			Tatro_000787			Tatro_011199	Tatro_010286	Tatro_002555
+			Tatro_010035			Tatro_011239	Tatro_010340	Tatro_002556
+			Tatro_008430			Tatro_011243	Tatro_010572	Tatro_002597
+			Tatro_009079			Tatro_011281	Tatro_010761	Tatro_002599
+			Tatro_000776			Tatro_011394	Tatro_010791	Tatro_002605
+			Tatro_001102			Tatro_011395	Tatro_010792	Tatro_002607
+			Tatro_005165			Tatro_011398	Tatro_010798	Tatro_002612
+			Tatro_010719			Tatro_011412	Tatro_010799	Tatro_002613
+			Tatro_000545			Tatro_011421	Tatro_010802	Tatro_002639
+			Tatro_007067			Tatro_011552	Tatro_010802	Tatro_002685
+			Tatro_002559			Tatro_011626	Tatro_010802	Tatro_002687
+			Tatro_005399			Tatro_011653	Tatro_010802	Tatro_002693
+			Tatro_000328			Tatro_011776	Tatro_010806	Tatro_002698
+			Tatro_003552			Tatro_011817	Tatro_010810	Tatro_002721
+			Tatro_006023			Tatro_011838	Tatro_010812	Tatro_002727
+			Tatro_005654			Tatro_011839	Tatro_010814	Tatro_002728
+			Tatro_008943			Tatro_011871	Tatro_010814	Tatro_002732
+			Tatro_001204			Tatro_011887	Tatro_010814	Tatro_002744
+			Tatro_010713			Tatro_011903	Tatro_010814	Tatro_002745
+			Tatro_010519			Tatro_011904	Tatro_010815	Tatro_002761
+			Tatro_010520			Tatro_011910	Tatro_010829	Tatro_002764
+			Tatro_007012			Tatro_011914	Tatro_010851	Tatro_002768
+			Tatro_000821			Tatro_011987	Tatro_010854	Tatro_002769
+			Tatro_003206			Tatro_012003	Tatro_010870	Tatro_002771
+			Tatro_011560				Tatro_010905	Tatro_002773
+			Tatro_004777				Tatro_010922	Tatro_002782
+			Tatro_002455				Tatro_011012	Tatro_002797
+			Tatro_002499				Tatro_011019	Tatro_002799
+			Tatro_003808				Tatro_011065	Tatro_002807
+			Tatro_010478				Tatro_011068	Tatro_002808
+			Tatro_003235				Tatro_011183	Tatro_002809
+			Tatro_004622				Tatro_011186	Tatro_002810
+			Tatro_009840				Tatro_011199	Tatro_002811
+			Tatro_004080				Tatro_011221	Tatro_002814
+			Tatro_005767				Tatro_011235	Tatro_002816
+			Tatro_008661				Tatro_011281	Tatro_002830
+			Tatro_004884				Tatro_011377	Tatro_002831
+			Tatro_009367				Tatro_011394	Tatro_002848
+			Tatro_001710				Tatro_011395	Tatro_002852
+			Tatro_000840				Tatro_011398	Tatro_002863
+			Tatro_011731				Tatro_011412	Tatro_002895
+			Tatro_011742				Tatro_011421	Tatro_002896
+			Tatro_006410				Tatro_011552	Tatro_002901
+			Tatro_002303				Tatro_011598	Tatro_002904
+			Tatro_006098				Tatro_011626	Tatro_002911
+			Tatro_005535				Tatro_011767	Tatro_002916
+			Tatro_004314				Tatro_011817	Tatro_002918
+			Tatro_011894				Tatro_011829	Tatro_002921
+			Tatro_004896				Tatro_011838	Tatro_002927
+			Tatro_005079				Tatro_011871	Tatro_002934
+			Tatro_003249				Tatro_011887	Tatro_002935
+			Tatro_002229				Tatro_011903	Tatro_002938
+							Tatro_011910	Tatro_002939
+							Tatro_011914	Tatro_002940
+							Tatro_011947	Tatro_002956
+							Tatro_011987	Tatro_002959
+							Tatro_012008	Tatro_002961
+								Tatro_003003
+								Tatro_003006
+								Tatro_003007
+								Tatro_003010
+								Tatro_003022
+								Tatro_003029
+								Tatro_003056
+								Tatro_003057
+								Tatro_003069
+								Tatro_003069
+								Tatro_003069
+								Tatro_003069
+								Tatro_003077
+								Tatro_003093
+								Tatro_003148
+								Tatro_003167
+								Tatro_003181
+								Tatro_003185
+								Tatro_003186
+								Tatro_003251
+								Tatro_003263
+								Tatro_003290
+								Tatro_003325
+								Tatro_003346
+								Tatro_003364
+								Tatro_003367
+								Tatro_003391
+								Tatro_003392
+								Tatro_003396
+								Tatro_003398
+								Tatro_003474
+								Tatro_003511
+								Tatro_003520
+								Tatro_003532
+								Tatro_003533
+								Tatro_003548
+								Tatro_003559
+								Tatro_003610
+								Tatro_003615
+								Tatro_003621
+								Tatro_003643
+								Tatro_003644
+								Tatro_003668
+								Tatro_003669
+								Tatro_003683
+								Tatro_003688
+								Tatro_003689
+								Tatro_003716
+								Tatro_003740
+								Tatro_003742
+								Tatro_003813
+								Tatro_003814
+								Tatro_003816
+								Tatro_003826
+								Tatro_003847
+								Tatro_003856
+								Tatro_003863
+								Tatro_003880
+								Tatro_003895
+								Tatro_003916
+								Tatro_003917
+								Tatro_003946
+								Tatro_003947
+								Tatro_003974
+								Tatro_003989
+								Tatro_003990
+								Tatro_004002
+								Tatro_004013
+								Tatro_004034
+								Tatro_004070
+								Tatro_004071
+								Tatro_004072
+								Tatro_004075
+								Tatro_004090
+								Tatro_004109
+								Tatro_004110
+								Tatro_004161
+								Tatro_004166
+								Tatro_004167
+								Tatro_004197
+								Tatro_004213
+								Tatro_004221
+								Tatro_004231
+								Tatro_004234
+								Tatro_004234
+								Tatro_004234
+								Tatro_004234
+								Tatro_004268
+								Tatro_004272
+								Tatro_004279
+								Tatro_004279
+								Tatro_004279
+								Tatro_004279
+								Tatro_004313
+								Tatro_004326
+								Tatro_004364
+								Tatro_004390
+								Tatro_004392
+								Tatro_004394
+								Tatro_004396
+								Tatro_004409
+								Tatro_004410
+								Tatro_004425
+								Tatro_004426
+								Tatro_004428
+								Tatro_004445
+								Tatro_004456
+								Tatro_004461
+								Tatro_004463
+								Tatro_004491
+								Tatro_004508
+								Tatro_004509
+								Tatro_004512
+								Tatro_004544
+								Tatro_004554
+								Tatro_004556
+								Tatro_004574
+								Tatro_004575
+								Tatro_004580
+								Tatro_004590
+								Tatro_004592
+								Tatro_004593
+								Tatro_004594
+								Tatro_004595
+								Tatro_004611
+								Tatro_004619
+								Tatro_004627
+								Tatro_004628
+								Tatro_004629
+								Tatro_004667
+								Tatro_004668
+								Tatro_004679
+								Tatro_004680
+								Tatro_004680
+								Tatro_004680
+								Tatro_004680
+								Tatro_004681
+								Tatro_004696
+								Tatro_004701
+								Tatro_004706
+								Tatro_004709
+								Tatro_004710
+								Tatro_004712
+								Tatro_004721
+								Tatro_004722
+								Tatro_004723
+								Tatro_004727
+								Tatro_004734
+								Tatro_004736
+								Tatro_004743
+								Tatro_004750
+								Tatro_004751
+								Tatro_004760
+								Tatro_004765
+								Tatro_004783
+								Tatro_004785
+								Tatro_004789
+								Tatro_004800
+								Tatro_004800
+								Tatro_004800
+								Tatro_004800
+								Tatro_004831
+								Tatro_004854
+								Tatro_004854
+								Tatro_004854
+								Tatro_004854
+								Tatro_004863
+								Tatro_004879
+								Tatro_004894
+								Tatro_004901
+								Tatro_004911
+								Tatro_004947
+								Tatro_004973
+								Tatro_004976
+								Tatro_005003
+								Tatro_005081
+								Tatro_005084
+								Tatro_005110
+								Tatro_005206
+								Tatro_005212
+								Tatro_005246
+								Tatro_005255
+								Tatro_005258
+								Tatro_005330
+								Tatro_005342
+								Tatro_005344
+								Tatro_005361
+								Tatro_005367
+								Tatro_005377
+								Tatro_005402
+								Tatro_005454
+								Tatro_005459
+								Tatro_005462
+								Tatro_005466
+								Tatro_005495
+								Tatro_005501
+								Tatro_005502
+								Tatro_005507
+								Tatro_005510
+								Tatro_005513
+								Tatro_005545
+								Tatro_005549
+								Tatro_005580
+								Tatro_005587
+								Tatro_005605
+								Tatro_005607
+								Tatro_005610
+								Tatro_005615
+								Tatro_005629
+								Tatro_005634
+								Tatro_005635
+								Tatro_005635
+								Tatro_005635
+								Tatro_005635
+								Tatro_005662
+								Tatro_005736
+								Tatro_005792
+								Tatro_005807
+								Tatro_005808
+								Tatro_005809
+								Tatro_005832
+								Tatro_005833
+								Tatro_005842
+								Tatro_005843
+								Tatro_005872
+								Tatro_005901
+								Tatro_005927
+								Tatro_005931
+								Tatro_005943
+								Tatro_005950
+								Tatro_005965
+								Tatro_005979
+								Tatro_005996
+								Tatro_005997
+								Tatro_005998
+								Tatro_006052
+								Tatro_006096
+								Tatro_006109
+								Tatro_006111
+								Tatro_006126
+								Tatro_006132
+								Tatro_006134
+								Tatro_006138
+								Tatro_006150
+								Tatro_006155
+								Tatro_006156
+								Tatro_006165
+								Tatro_006165
+								Tatro_006165
+								Tatro_006165
+								Tatro_006190
+								Tatro_006196
+								Tatro_006199
+								Tatro_006223
+								Tatro_006227
+								Tatro_006257
+								Tatro_006291
+								Tatro_006306
+								Tatro_006316
+								Tatro_006317
+								Tatro_006320
+								Tatro_006326
+								Tatro_006327
+								Tatro_006337
+								Tatro_006338
+								Tatro_006344
+								Tatro_006350
+								Tatro_006351
+								Tatro_006352
+								Tatro_006355
+								Tatro_006357
+								Tatro_006359
+								Tatro_006360
+								Tatro_006361
+								Tatro_006369
+								Tatro_006378
+								Tatro_006398
+								Tatro_006406
+								Tatro_006415
+								Tatro_006434
+								Tatro_006435
+								Tatro_006438
+								Tatro_006443
+								Tatro_006467
+								Tatro_006481
+								Tatro_006510
+								Tatro_006516
+								Tatro_006517
+								Tatro_006537
+								Tatro_006538
+								Tatro_006553
+								Tatro_006578
+								Tatro_006591
+								Tatro_006601
+								Tatro_006604
+								Tatro_006605
+								Tatro_006606
+								Tatro_006608
+								Tatro_006622
+								Tatro_006625
+								Tatro_006632
+								Tatro_006638
+								Tatro_006654
+								Tatro_006658
+								Tatro_006659
+								Tatro_006660
+								Tatro_006665
+								Tatro_006666
+								Tatro_006671
+								Tatro_006739
+								Tatro_006759
+								Tatro_006761
+								Tatro_006775
+								Tatro_006779
+								Tatro_006825
+								Tatro_006930
+								Tatro_006938
+								Tatro_007015
+								Tatro_007020
+								Tatro_007050
+								Tatro_007086
+								Tatro_007126
+								Tatro_007150
+								Tatro_007151
+								Tatro_007152
+								Tatro_007154
+								Tatro_007170
+								Tatro_007201
+								Tatro_007203
+								Tatro_007204
+								Tatro_007208
+								Tatro_007209
+								Tatro_007233
+								Tatro_007278
+								Tatro_007283
+								Tatro_007288
+								Tatro_007292
+								Tatro_007313
+								Tatro_007321
+								Tatro_007324
+								Tatro_007325
+								Tatro_007327
+								Tatro_007328
+								Tatro_007335
+								Tatro_007341
+								Tatro_007342
+								Tatro_007348
+								Tatro_007349
+								Tatro_007361
+								Tatro_007367
+								Tatro_007371
+								Tatro_007441
+								Tatro_007449
+								Tatro_007452
+								Tatro_007462
+								Tatro_007500
+								Tatro_007564
+								Tatro_007581
+								Tatro_007598
+								Tatro_007634
+								Tatro_007662
+								Tatro_007672
+								Tatro_007679
+								Tatro_007700
+								Tatro_007701
+								Tatro_007728
+								Tatro_007733
+								Tatro_007734
+								Tatro_007737
+								Tatro_007746
+								Tatro_007750
+								Tatro_007762
+								Tatro_007806
+								Tatro_007823
+								Tatro_007829
+								Tatro_007842
+								Tatro_007842
+								Tatro_007842
+								Tatro_007842
+								Tatro_007843
+								Tatro_007844
+								Tatro_007845
+								Tatro_007848
+								Tatro_007850
+								Tatro_007856
+								Tatro_007868
+								Tatro_007875
+								Tatro_007889
+								Tatro_007899
+								Tatro_007901
+								Tatro_007904
+								Tatro_007906
+								Tatro_007914
+								Tatro_007920
+								Tatro_007946
+								Tatro_007958
+								Tatro_007959
+								Tatro_007960
+								Tatro_007961
+								Tatro_007962
+								Tatro_007988
+								Tatro_007989
+								Tatro_007997
+								Tatro_008011
+								Tatro_008017
+								Tatro_008046
+								Tatro_008051
+								Tatro_008056
+								Tatro_008057
+								Tatro_008058
+								Tatro_008060
+								Tatro_008061
+								Tatro_008062
+								Tatro_008071
+								Tatro_008072
+								Tatro_008116
+								Tatro_008118
+								Tatro_008153
+								Tatro_008154
+								Tatro_008157
+								Tatro_008184
+								Tatro_008193
+								Tatro_008218
+								Tatro_008257
+								Tatro_008279
+								Tatro_008329
+								Tatro_008374
+								Tatro_008380
+								Tatro_008381
+								Tatro_008382
+								Tatro_008383
+								Tatro_008394
+								Tatro_008395
+								Tatro_008404
+								Tatro_008406
+								Tatro_008414
+								Tatro_008415
+								Tatro_008425
+								Tatro_008472
+								Tatro_008482
+								Tatro_008536
+								Tatro_008562
+								Tatro_008586
+								Tatro_008588
+								Tatro_008606
+								Tatro_008644
+								Tatro_008674
+								Tatro_008678
+								Tatro_008719
+								Tatro_008753
+								Tatro_008754
+								Tatro_008755
+								Tatro_008770
+								Tatro_008779
+								Tatro_008803
+								Tatro_008836
+								Tatro_008842
+								Tatro_008884
+								Tatro_008885
+								Tatro_008886
+								Tatro_008896
+								Tatro_008937
+								Tatro_008961
+								Tatro_008964
+								Tatro_008966
+								Tatro_008985
+								Tatro_009000
+								Tatro_009006
+								Tatro_009025
+								Tatro_009027
+								Tatro_009030
+								Tatro_009033
+								Tatro_009075
+								Tatro_009126
+								Tatro_009127
+								Tatro_009131
+								Tatro_009132
+								Tatro_009139
+								Tatro_009140
+								Tatro_009141
+								Tatro_009143
+								Tatro_009165
+								Tatro_009166
+								Tatro_009171
+								Tatro_009175
+								Tatro_009176
+								Tatro_009177
+								Tatro_009184
+								Tatro_009193
+								Tatro_009206
+								Tatro_009246
+								Tatro_009256
+								Tatro_009257
+								Tatro_009304
+								Tatro_009308
+								Tatro_009331
+								Tatro_009332
+								Tatro_009337
+								Tatro_009347
+								Tatro_009425
+								Tatro_009431
+								Tatro_009437
+								Tatro_009445
+								Tatro_009445
+								Tatro_009445
+								Tatro_009445
+								Tatro_009450
+								Tatro_009452
+								Tatro_009453
+								Tatro_009463
+								Tatro_009474
+								Tatro_009475
+								Tatro_009479
+								Tatro_009480
+								Tatro_009481
+								Tatro_009482
+								Tatro_009495
+								Tatro_009501
+								Tatro_009510
+								Tatro_009511
+								Tatro_009512
+								Tatro_009513
+								Tatro_009521
+								Tatro_009532
+								Tatro_009533
+								Tatro_009535
+								Tatro_009537
+								Tatro_009545
+								Tatro_009551
+								Tatro_009574
+								Tatro_009574
+								Tatro_009574
+								Tatro_009574
+								Tatro_009584
+								Tatro_009605
+								Tatro_009606
+								Tatro_009615
+								Tatro_009654
+								Tatro_009663
+								Tatro_009688
+								Tatro_009712
+								Tatro_009716
+								Tatro_009734
+								Tatro_009790
+								Tatro_009804
+								Tatro_009805
+								Tatro_009816
+								Tatro_009835
+								Tatro_009874
+								Tatro_009878
+								Tatro_009911
+								Tatro_009947
+								Tatro_009949
+								Tatro_009951
+								Tatro_009953
+								Tatro_009983
+								Tatro_009983
+								Tatro_009983
+								Tatro_009983
+								Tatro_010003
+								Tatro_010014
+								Tatro_010039
+								Tatro_010054
+								Tatro_010086
+								Tatro_010096
+								Tatro_010098
+								Tatro_010099
+								Tatro_010145
+								Tatro_010146
+								Tatro_010148
+								Tatro_010149
+								Tatro_010152
+								Tatro_010154
+								Tatro_010156
+								Tatro_010164
+								Tatro_010170
+								Tatro_010173
+								Tatro_010174
+								Tatro_010176
+								Tatro_010181
+								Tatro_010182
+								Tatro_010183
+								Tatro_010186
+								Tatro_010187
+								Tatro_010188
+								Tatro_010190
+								Tatro_010195
+								Tatro_010214
+								Tatro_010217
+								Tatro_010221
+								Tatro_010221
+								Tatro_010221
+								Tatro_010221
+								Tatro_010229
+								Tatro_010230
+								Tatro_010232
+								Tatro_010233
+								Tatro_010237
+								Tatro_010262
+								Tatro_010262
+								Tatro_010262
+								Tatro_010262
+								Tatro_010270
+								Tatro_010274
+								Tatro_010277
+								Tatro_010278
+								Tatro_010294
+								Tatro_010295
+								Tatro_010296
+								Tatro_010298
+								Tatro_010299
+								Tatro_010300
+								Tatro_010312
+								Tatro_010316
+								Tatro_010323
+								Tatro_010332
+								Tatro_010333
+								Tatro_010337
+								Tatro_010361
+								Tatro_010364
+								Tatro_010365
+								Tatro_010395
+								Tatro_010396
+								Tatro_010418
+								Tatro_010422
+								Tatro_010423
+								Tatro_010442
+								Tatro_010444
+								Tatro_010448
+								Tatro_010450
+								Tatro_010458
+								Tatro_010569
+								Tatro_010569
+								Tatro_010569
+								Tatro_010569
+								Tatro_010572
+								Tatro_010590
+								Tatro_010601
+								Tatro_010619
+								Tatro_010664
+								Tatro_010760
+								Tatro_010761
+								Tatro_010762
+								Tatro_010767
+								Tatro_010779
+								Tatro_010783
+								Tatro_010786
+								Tatro_010787
+								Tatro_010796
+								Tatro_010797
+								Tatro_010798
+								Tatro_010801
+								Tatro_010802
+								Tatro_010802
+								Tatro_010802
+								Tatro_010802
+								Tatro_010815
+								Tatro_010816
+								Tatro_010821
+								Tatro_010823
+								Tatro_010828
+								Tatro_010829
+								Tatro_010837
+								Tatro_010839
+								Tatro_010840
+								Tatro_010842
+								Tatro_010843
+								Tatro_010843
+								Tatro_010843
+								Tatro_010843
+								Tatro_010849
+								Tatro_010851
+								Tatro_010852
+								Tatro_010854
+								Tatro_010869
+								Tatro_010870
+								Tatro_010890
+								Tatro_010892
+								Tatro_010893
+								Tatro_010905
+								Tatro_010913
+								Tatro_010976
+								Tatro_011006
+								Tatro_011012
+								Tatro_011013
+								Tatro_011018
+								Tatro_011019
+								Tatro_011023
+								Tatro_011033
+								Tatro_011041
+								Tatro_011042
+								Tatro_011045
+								Tatro_011061
+								Tatro_011065
+								Tatro_011067
+								Tatro_011068
+								Tatro_011069
+								Tatro_011079
+								Tatro_011088
+								Tatro_011089
+								Tatro_011091
+								Tatro_011092
+								Tatro_011111
+								Tatro_011150
+								Tatro_011153
+								Tatro_011176
+								Tatro_011183
+								Tatro_011199
+								Tatro_011203
+								Tatro_011203
+								Tatro_011203
+								Tatro_011203
+								Tatro_011204
+								Tatro_011205
+								Tatro_011221
+								Tatro_011230
+								Tatro_011235
+								Tatro_011236
+								Tatro_011241
+								Tatro_011243
+								Tatro_011246
+								Tatro_011251
+								Tatro_011291
+								Tatro_011294
+								Tatro_011298
+								Tatro_011332
+								Tatro_011333
+								Tatro_011348
+								Tatro_011349
+								Tatro_011349
+								Tatro_011349
+								Tatro_011349
+								Tatro_011350
+								Tatro_011355
+								Tatro_011377
+								Tatro_011392
+								Tatro_011393
+								Tatro_011394
+								Tatro_011395
+								Tatro_011398
+								Tatro_011404
+								Tatro_011410
+								Tatro_011412
+								Tatro_011437
+								Tatro_011444
+								Tatro_011447
+								Tatro_011489
+								Tatro_011515
+								Tatro_011524
+								Tatro_011554
+								Tatro_011638
+								Tatro_011648
+								Tatro_011650
+								Tatro_011657
+								Tatro_011668
+								Tatro_011676
+								Tatro_011725
+								Tatro_011762
+								Tatro_011766
+								Tatro_011767
+								Tatro_011768
+								Tatro_011769
+								Tatro_011786
+								Tatro_011791
+								Tatro_011799
+								Tatro_011800
+								Tatro_011816
+								Tatro_011817
+								Tatro_011829
+								Tatro_011831
+								Tatro_011838
+								Tatro_011839
+								Tatro_011871
+								Tatro_011873
+								Tatro_011877
+								Tatro_011893
+								Tatro_011910
+								Tatro_011911
+								Tatro_011936
+								Tatro_011937
+								Tatro_011939
+								Tatro_011939
+								Tatro_011939
+								Tatro_011939
+								Tatro_011947
+								Tatro_011960
+								Tatro_011964
+								Tatro_011968
+								Tatro_011969
+								Tatro_011971
+								Tatro_011972
+								Tatro_011974
+								Tatro_011980
+								Tatro_011982
+								Tatro_011988
+								Tatro_011996
+								Tatro_012001
+								Tatro_012001
+								Tatro_012001
+								Tatro_012001
+								Tatro_012003
