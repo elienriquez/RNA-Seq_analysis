@@ -129,6 +129,7 @@ library(&quot;gridExtra&quot;)
 library(&quot;grid&quot;)
 
 For upregulated genes:
+
 data_inter_up=fromList(lista_contras$contras_up.txt)
 UpSet plot of genes that are upregulated at the before contact and contact stage:
 upset(data_inter_up, sets = c(&quot;WTvsR.solani_AG2_BC&quot;,
