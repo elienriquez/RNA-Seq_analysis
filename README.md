@@ -117,7 +117,7 @@ Genetable<-GenTable(GOdata, classicFisher = Fisher,classicKS = KS, elimKS = KS_e
 
 # Upset graphs 
 
-Here we describe the procedure to create upset graphs. The lists of upregulated and downregulated differentially expressed genes (DEG) with
+Here we describe the procedure to create upset graphs. The files were provided as "contras_upregulated" and "contras_downregulated". The lists of upregulated and downregulated differentially expressed genes (DEG) with
 a Log2FC  1 and p &lt; 0.05 were taken for each interaction with respect to the control (wild strain growing without interaction). These lists were loaded to create
 the UpSet charts using the following code:
 
